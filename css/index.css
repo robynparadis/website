@@ -124,6 +124,8 @@ em {
 .robyn-pic {
   width: 15rem;
   height: 15rem;
+  display: block;
+  margin: auto;
 }
 
 /* Contact Page */
