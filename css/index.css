@@ -1,0 +1,157 @@
+#title {
+  background-color: #9e97a9;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Navigation Bar */
+
+.nav-item {
+  padding-right: 2rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+.nav-link {
+  color: #adaeaf !important;
+}
+
+.nav-link:hover,
+.active {
+  color: #d63320 !important;
+}
+
+/* Top Section */
+
+.fa-brands {
+  padding-bottom: 1rem;
+  font-size: 2rem;
+  color: #d63320;
+  padding: 0 1rem 0 0;
+}
+
+.hero-title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  padding-bottom: 2rem;
+  color: #d63320;
+}
+
+.container {
+  padding: 1%;
+}
+
+/* Features Section */
+
+.features-container {
+  padding: 3% 5%;
+}
+
+.features-row {
+  display: block !important;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.fa-solid {
+  color: #d63320;
+  width: 100%;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.features-subtext {
+  text-align: center;
+  color: grey;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background: #9e97a9;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.standout {
+  color: #d63320;
+}
+
+.testimonial-text,
+em {
+  color: #fff;
+}
+
+/* .carousel-control-prev {
+  margin-left: -15%;
+}
+
+.carousel-control-next {
+  margin-right: -15%;
+} */
+
+/* About Me Page */
+
+.card {
+  padding: 3% 15%;
+}
+
+.card-title {
+  color: #d63320;
+}
+
+.email-link {
+  color: #d63320;
+}
+
+.email-link:hover {
+  color: #d63320;
+  text-decoration: underline;
+}
+
+.robyn-pic {
+  width: 25rem;
+  height: 25rem;
+}
+
+/* Contact Page */
+
+.contact-container {
+  margin-top: 5rem;
+}
+
+.contact-card-title {
+  color: #d63320;
+  text-align: left;
+  padding-bottom: 10%;
+}
+
+.btn {
+  margin-top: 15%;
+  background-color: #9e97a9 !important;
+}
+
+/* Footer */
+
+.footer-container {
+  padding: 0.5% 15%;
+}
+
+/* Services */
+
+.services-title {
+  font-family: "Montserrat", sans-serif !important;
+  color: #d63320 !important;
+}
