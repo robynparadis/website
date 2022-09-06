@@ -14,7 +14,7 @@ body {
 }
 
 .nav-link {
-  color: #adaeaf !important;
+  color: #fff !important;
 }
 
 .nav-link:hover,
@@ -74,7 +74,7 @@ h3 {
 /* Testimonials Section */
 
 #testimonials {
-  padding: 7% 15%;
+  padding: 7% 9%;
   text-align: center;
   background: #9e97a9;
 }
